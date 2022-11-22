@@ -197,16 +197,3 @@ Df_Final
 # Hacemos el export de nuestra tabla.
 
 Df_Final.to_csv('tiempo_hoy.csv', index=False)
-
-
-# In[2]:
-
-
-test = pd.read_csv('tiempo_hoy.csv')
-
-
-# In[3]:
-
-
-test.info()
-

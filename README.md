@@ -9,4 +9,5 @@
 * **PDF**: En esta carpeta estará unicado el pdf de la práctica, donde se da respuesta a cada uno de los puntos de la PEC.
 * **src**: Carpeta donde hemos ubicado el archivo py con el código que ha servido para obtener los datos finales del ejercicio. Además. también podemos encontrar nuestro archivo requirements con la información de las librerías utilizadas.
 
-
+> El link DOI que nos lleva a los datos exportados en ZENODO es el siguiente:
+https://zenodo.org/record/7343486#.Y3vqDHbMJPY

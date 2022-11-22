@@ -1,6 +1,6 @@
-# PEC2
+# PEC2 
 
-### Autor de la Práctica: Jordi Lago López
+### Práctica individual realizada por: Jordi Lago López
 
 ### Archivos del Repositorio
 

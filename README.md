@@ -10,4 +10,4 @@
 * **src**: Carpeta donde hemos ubicado el archivo py con el código que ha servido para obtener los datos finales del ejercicio. Además. también podemos encontrar nuestro archivo requirements con la información de las librerías utilizadas.
 
 > El link DOI que nos lleva a los datos exportados en ZENODO es el siguiente:
-https://zenodo.org/record/7343486#.Y3vqDHbMJPY
+https://doi.org/10.5281/zenodo.7343486
